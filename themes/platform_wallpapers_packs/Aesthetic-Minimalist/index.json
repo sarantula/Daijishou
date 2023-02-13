@@ -10,7 +10,7 @@
   "wallpaperList": [
     {
       "matchPlatformShortname": "3ds",
-      "filename": "3DS.png"
+      "filename": "mount_niitaka.png"
     },
     {
       "matchPlatformShortname": "android",
@@ -25,7 +25,7 @@
       "filename": "dreamcast.png"
     },
     {
-      "matchPlatformShortname": "gamegear",
+      "matchPlatformShortname": gamegear",
       "filename": "gamegear.png"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "matchPlatformShortname": "ps2",
-      "filename": "ps2.png"
+      "filename": "mount_niitaka.png"
     },
     {
       "matchPlatformShortname": "psp",
@@ -95,6 +95,10 @@
     {
       "matchPlatformShortname": "switch",
       "filename": "switch.png"
+    },
+    {
+      "matchPlatformShortname": "vita",
+      "filename": "vita.png"
     },
     {
       "matchPlatformShortname": "wii",
